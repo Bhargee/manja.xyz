@@ -1,0 +1,41 @@
+#header {
+    margin-top: 5%;
+}
+
+#image {
+    text-align: right;
+}
+
+.section {
+  width: 950px;
+  margin: 12px auto;
+  padding: 20px 20px 0px 20px;
+  background-color: #f4f4f4;
+  overflow: hidden;
+}
+
+.section h2 {
+  width: 100px;
+  padding-right: 5px;
+  float: left;
+  padding-top: 0;
+  line-height: 22px;
+  font-size: 1.5em;
+}
+
+.section .item {
+  width: 710px;
+  padding-left: 50px;
+  float: right;
+  padding-top: 0;
+  margin-bottom: 9px;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.section .description {
+  width: 650px;
+  text-align:left;
+}
+
+
